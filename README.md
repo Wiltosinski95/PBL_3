@@ -58,3 +58,6 @@ Problem Based Learning  http://www.ksiegarnia.difin.pl/imgs_upload/wstep-do-psyc
 
 [Definicja Problem Based Learning, historia wprowadzenia i rozwoju PBL, skladniki i cechy charakteryzujące PBL - Diana Dawidziuk](https://prezi.com/nlms1gwh27lw/problem-based-learning-/) (Marharyta Tarasevych)
 
+
+PBL: Problem-based Learning (Vladyslav Omelianenko)
+https://jabsom.hawaii.edu/ed-programs/md-program/md-curriculum/md-curriculum-overview/pbl/
