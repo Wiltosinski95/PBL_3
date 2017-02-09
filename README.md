@@ -30,7 +30,7 @@ Problem Based Learning (PBL) using minimal guided instruction is used as an educ
 
 [Project Based E-learning - nowy model e-kształcenia - Piotr Kopciał](http://www.e-mentor.edu.pl/artykul/index/numer/35/id/756) (Marcin Jachymczyk)
 
-[Problem based Learning- Forum Akademickie] (https://forumakademickie.pl/fa/2012/07-08/problem-based-learning/) (Dawid Stawski)
+[Problem based Learning- Forum Akademickie] (https://forumakademickie.pl/fa/2012/07-08/problem-based-learning/) (Dawid Stawski, Yuliia Zelenska)
 
 [Materiały PROBLEM BASED LEARNING](http://online.sfsu.edu/rpurser/revised/pages/problem.htm) (Monika Latos)
 
